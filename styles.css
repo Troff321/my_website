@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  font-family: monospace;
+  font-size: 60px;
+
+}
+h2 {
+  color: purple;
+  font-style: italic;
+  font-size:50
+}
+p {
+  color: yellow
+}
+ol li {
+  color: red;
+  font-family:fantasy;
+  background-color: green;
+}
